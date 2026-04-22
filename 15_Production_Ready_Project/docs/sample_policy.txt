@@ -1,23 +1,23 @@
 Refund and Return Policy
 
-Customers may request a refund within 30 days of purchase. To initiate a refund, submit a request through the customer portal with your order number and reason for return.
-
-Refunds are processed within 5-7 business days after the returned item is received and inspected. Original shipping costs are non-refundable.
+Customers may request a refund within 30 days of purchase. To initiate a refund, submit a request through the customer portal with your order number and reason for return. Refunds are processed within 5-7 business days after the returned item is received and inspected. Original shipping costs are non-refundable. Items must be returned in original condition and packaging. Damaged or used items may not qualify for a full refund. Digital products and downloadable software are non-refundable once accessed.
 
 Expense Reimbursement Process
 
-To submit an expense reimbursement, employees must complete the expense form in the finance portal. Required documents include: original receipts, project code, and manager approval for amounts over $500.
-
-Reimbursements are processed in the next payroll cycle after submission. Submissions must be made within 60 days of the expense date.
+To submit an expense reimbursement, employees must complete the expense form in the finance portal. Required documents include original receipts, project code, and manager approval for amounts over $500. Reimbursements are processed in the next payroll cycle after submission. Submissions must be made within 60 days of the expense date. Receipts must be itemized and show the vendor name, date, and amount. Alcohol and entertainment expenses require additional justification. Travel expenses must include boarding passes or itineraries as supporting documentation.
 
 Database Access Policy
 
-Access to production databases requires a formal access request submitted to the security team. Requests must include business justification, required access level, and manager approval.
-
-Access is granted for a maximum of 90 days and must be renewed. All database access is logged and audited quarterly.
+Access to production databases requires a formal access request submitted to the security team. Requests must include business justification, required access level, and manager approval. Access is granted for a maximum of 90 days and must be renewed. All database access is logged and audited quarterly. Shared credentials are strictly prohibited. Each engineer must use their individual account for all database operations. Violations of this policy may result in immediate access revocation and disciplinary action.
 
 Shipping Policy
 
-Standard shipping takes 5-7 business days. Express shipping (2-3 business days) is available for an additional fee. International shipping is available to select countries with delivery times of 10-15 business days.
+Standard shipping takes 5-7 business days. Express shipping (2-3 business days) is available for an additional fee. International shipping is available to select countries with delivery times of 10-15 business days. Orders over $100 qualify for free standard shipping within the continental United States. Tracking information is provided via email once the order has shipped. Lost or damaged shipments must be reported within 14 days of the expected delivery date. We are not responsible for delays caused by customs or international carriers.
 
-Orders over $100 qualify for free standard shipping within the continental United States.
+Account and Password Policy
+
+All employee accounts must use strong passwords of at least 12 characters including uppercase, lowercase, numbers, and special characters. Passwords must be changed every 90 days. Multi-factor authentication is required for all systems that handle customer data. Accounts inactive for more than 60 days will be automatically suspended. Employees must not share account credentials under any circumstances. Suspected account compromise must be reported to the IT security team immediately.
+
+Data Retention Policy
+
+Customer data is retained for a minimum of 7 years in compliance with regulatory requirements. Personal data that is no longer needed for its original purpose must be deleted or anonymized. Data deletion requests from customers must be processed within 30 days. Backup data is retained for 90 days before permanent deletion. All data processing activities must be documented in the data register maintained by the compliance team.

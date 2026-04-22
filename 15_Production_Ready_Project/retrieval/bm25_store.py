@@ -21,6 +21,10 @@ class BM25Store:
     def add(self, chunks: list[dict]) -> None:
         self.chunks.extend(chunks)
         tokenized = [c["text"].lower().split() for c in self.chunks]
+        # BM25Okapi raises ZeroDivisionError on single-document corpus (IDF edge case)
+        # Pad with a dummy document so corpus always has >= 2 entries
+        if len(tokenized) < 2:
+            tokenized.append(["__pad__"])
         self.bm25 = BM25Okapi(tokenized)
 
     def search(self, query: str, top_k: int = 20) -> list[dict]:
@@ -29,6 +33,9 @@ class BM25Store:
 
         tokens = query.lower().split()
         scores = self.bm25.get_scores(tokens)
+
+        # Scores array may be longer than chunks if we padded the corpus
+        scores = scores[:len(self.chunks)]
 
         ranked = sorted(
             enumerate(scores), key=lambda x: x[1], reverse=True
