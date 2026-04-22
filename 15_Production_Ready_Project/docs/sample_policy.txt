@@ -1,0 +1,23 @@
+Refund and Return Policy
+
+Customers may request a refund within 30 days of purchase. To initiate a refund, submit a request through the customer portal with your order number and reason for return.
+
+Refunds are processed within 5-7 business days after the returned item is received and inspected. Original shipping costs are non-refundable.
+
+Expense Reimbursement Process
+
+To submit an expense reimbursement, employees must complete the expense form in the finance portal. Required documents include: original receipts, project code, and manager approval for amounts over $500.
+
+Reimbursements are processed in the next payroll cycle after submission. Submissions must be made within 60 days of the expense date.
+
+Database Access Policy
+
+Access to production databases requires a formal access request submitted to the security team. Requests must include business justification, required access level, and manager approval.
+
+Access is granted for a maximum of 90 days and must be renewed. All database access is logged and audited quarterly.
+
+Shipping Policy
+
+Standard shipping takes 5-7 business days. Express shipping (2-3 business days) is available for an additional fee. International shipping is available to select countries with delivery times of 10-15 business days.
+
+Orders over $100 qualify for free standard shipping within the continental United States.
